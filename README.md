@@ -4,8 +4,8 @@ This is a backend for the SplitBill
 
 ## Useful Links
 
-- [Live Website]()
-- [Backend Repo]()
+- [Live Website](https://bill-split-frontend.pages.dev/)
+- [Backend Repo](https://splitbill-backend.herokuapp.com/api)
 
 
 ### Technologies Used
@@ -13,7 +13,7 @@ This is a backend for the SplitBill
 - Reactjs
 - Nodejs
 - Typescript
-- MongoDB (Hosted on Linode)
+- MongoDB 
 - Tailwind CSS
 
 
